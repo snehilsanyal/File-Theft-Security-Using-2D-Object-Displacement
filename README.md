@@ -71,7 +71,7 @@ The system performs well in various scenarios:
 1. Xie, Y., Shen, J., & Wu, C. (2019). Robust object tracking using affine transformation.
 2. Jo, B.-W., Lee, Y.S., Jo, J.H., & Khan, R.M.A. (2018). Computer vision-based displacement measurements.
 
-For more details, refer to the [conference paper](https://github.com/Kartik8Dwivedi/File-Theft-Security).
+For more details, refer to the [conference paper](./public/Confrence%20Paper%20-%202D%20Object%20Displacement.pdf).
 
 ## Maintainers
 - [Snehil Sanyal](https://github.com/snehilsanyal)
