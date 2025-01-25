@@ -74,6 +74,10 @@ The system performs well in various scenarios:
 
 For more details, refer to the [conference paper](./public/Confrence%20Paper%20-%202D%20Object%20Displacement.pdf).
 
+## 🔗 Additional Resources
+- 📓 [Kaggle Notebook](https://www.kaggle.com/code/thekartikdwivedi/2d-object-detection-three-point-method): Explore the implementation details in a Kaggle notebook.
+- 🌐 [Web App Repository](https://github.com/Kartik8Dwivedi/theft-detection-webapp.git): Check out the web app repository for this project.
+
 ## 👨‍💻 Maintainers
 - [Snehil Sanyal](https://github.com/snehilsanyal)
 - [Kartik Dwivedi](https://github.com/kartik8dwivedi)
