@@ -76,7 +76,7 @@ For more details, refer to the [conference paper](./public/Confrence%20Paper%20-
 
 ## 🔗 Additional Resources
 - 📓 [Kaggle Notebook](https://www.kaggle.com/code/thekartikdwivedi/2d-object-detection-three-point-method): Explore the implementation details in a Kaggle notebook.
-- 🌐 [Web App Repository](https://github.com/Kartik8Dwivedi/theft-detection-webapp.git): Check out the web app repository for this project.
+- 🌐 [Web App](https://theft-detection-webapp.vercel.app/): Check out the web app repository for this project.
 
 ## 👨‍💻 Maintainers
 - [Snehil Sanyal](https://github.com/snehilsanyal)
